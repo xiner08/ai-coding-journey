@@ -5,4 +5,3 @@
 - ✅ 前端交互页面 (useState + fetch)
 - ✅ 本地运行成功
 
-明天：Prisma + Supabase + Todo CRUD
